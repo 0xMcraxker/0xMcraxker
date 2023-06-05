@@ -1,5 +1,8 @@
-<center>
-  <h1><a href="https://mcraxker.dev/">mcraxker.dev</a></h1>
-</center>
-
-<img src="https://camo.githubusercontent.com/51d7444fe9d8d315e0f167470dde79eaad6c06a679d99633f909ed221a103ee6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c766974652c7765627061636b2c74617572692c7461696c77696e642c7374796c6564636f6d706f6e656e74732c736173732c727573742c726f636b65742c72656765782c70792c6e6f64656a732c6e6578746a732c6d6f6e676f64622c6d642c6a732c6373732c657870726573732c656c656374726f6e2c6769742c6370702c632c626f6f7473747261702c626162656c267065726c696e653d38"/>
+<h1>
+<a href="https://mcraxker.dev/">mcraxker.dev</a>
+</h1>
+<hr/>
+<img src="https://skillicons.dev/icons?i=css,sass,tailwind,bootstrap,html,js,ts,nodejs,py,express,rocket,rust,tauri,next,nginx,cloudflare,docker,babel,cpp,c,cmake,bash,vscode,visualstudio,git,postman,mongodb,powershell,react,github,githubactions,discord,webpack,markdown,mui,electron&perline=9">
+<hr/>
+<img src="https://github-readme-stats.vercel.app/api?username=0xMcraxker&show_icons=true&theme=dracula"/>
+<hr/>
